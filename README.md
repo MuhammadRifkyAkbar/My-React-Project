@@ -15,7 +15,7 @@ Saat ini, dua plugin resmi tersedia:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md): Menggunakan [Babel](https://babeljs.io/) untuk Fast Refresh.
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc): Menggunakan [SWC](https://swc.rs/) untuk Fast Refresh.
 
-## Struktur Proyek
+## Struktur Proyeks
 
 Proyek ini memiliki beberapa komponen utama yang dapat Anda eksplorasi:
 
